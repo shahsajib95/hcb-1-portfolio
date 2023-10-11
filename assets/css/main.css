@@ -233,10 +233,10 @@ section {
 }
 
 .project-items {
-  padding: 40px;
+  padding: 40px 0;
   display: grid;
   gap: 10px;
-  grid-template-columns: 800px 800px;
+  grid-template-columns: 750px 750px;
 }
 
 .project-card {
